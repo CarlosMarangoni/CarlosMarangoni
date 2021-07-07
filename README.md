@@ -3,7 +3,7 @@
 - 🌱 Atualmente aprendendo Kotlin, Spring e Micro serviços;
 - 💼 Starter no Grupo GFT;
 - 🎒 Estudando Análise e Desenvolvimento de Sistemas na FATEC - Sorocaba;
-- 📫 E-mail: carlos.marangoni1@gmail.com | carlos.mendes@gftcom;
+- 📫 E-mail: carlos.marangoni1@gmail.com | carlos.mendes@gft.com;
 <!--
 **CarlosMarangoni/CarlosMarangoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
