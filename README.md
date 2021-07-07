@@ -8,8 +8,6 @@
 - 📫 E-mail: carlos.marangoni1@gmail.com | carlos.mendes@gft.com
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-m-134310131/)]( https://www.linkedin.com/in/carlos-m-134310131/)
-
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMarangoni)](https://github.com/CarlosMarangoni/github-readme-stats)
 <!--
 **CarlosMarangoni/CarlosMarangoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
