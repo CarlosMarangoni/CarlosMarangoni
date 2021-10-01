@@ -1,7 +1,7 @@
 ### Eaí 👋
 
 - 🌱 Atualmente aprendendo Kotlin, Spring e Micro serviços;
-- 💼 Desenvolvedor Java no Grupo GFT;
+- 💼 Analista de Sistemas no Grupo GFT;
 - 🎒 Estudando Análise e Desenvolvimento de Sistemas na FATEC - Sorocaba;
 - 📫 E-mail: carlos.marangoni1@gmail.com | carlos.mendes@gft.com
 
